@@ -23,7 +23,7 @@ Group 7 — Chris Koran, Amelia Loch, Elie Mouterde, Rawan Olabi :contentReferen
 - Material: **Ti-6Al-4V (Grade 5)** selected for strength-to-weight; key properties tabulated in report :contentReference[oaicite:5]{index=5}
 - FAR-informed load cases (inertial + torque + lateral + gyroscopic) with **1.5 safety factor** applied :contentReference[oaicite:6]{index=6}
 
-### **MAIN CONTRIBUTIONS** Performance (mission-level)
+### Performance (mission-level)
 Under the report’s stated conservative assumptions:
 - Cruise segment: ~**11 minutes** and ~**21.5 NM** cruise range beyond top-of-climb :contentReference[oaicite:7]{index=7}
 - Total time aloft: **42.9 minutes**
