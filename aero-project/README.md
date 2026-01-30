@@ -5,10 +5,10 @@
 ## Overview
 This project evaluates a **pure-electric conversion** of the **American Aviation AA-1 Yankee Clipper**, focusing on:
 - electric powertrain selection and integration
-- weight & balance / stability impacts
+- weight & balance/stability impacts
 - **engine mount design + FAR 23 load-case analysis**
 - mission-level performance estimation
-- avionics/electrical system redesign for high- and low-voltage subsystems :contentReference[oaicite:1]{index=1}
+- avionics/electrical system redesign for high- and low-voltage subsystems:contentReference[oaicite:1]{index=1}
 
 ## Team
 Group 7 — Chris Koran, Amelia Loch, Elie Mouterde, Rawan Olabi :contentReference[oaicite:2]{index=2}
